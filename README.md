@@ -6,7 +6,7 @@ Problem: There needs to be a convenient way of finding nearby hotels and their a
 Functionality: Our web application provides a space for people to check on nearby hotels, their descriptions, and a link to their website if any.  
 What Application Covers: Our application covers web development. We use Flask, Python and a SQLite database.  
 
-Project Overview
+### Project Overview
 
 We developed an Online Bookstore Database System that allows customers to browse books, place orders, and submit reviews while enabling bookstore staff to manage book information, customer accounts, orders, and reviews through a centralized relational database.
 
