@@ -5,7 +5,14 @@ Emails: charlene.khun@sjsu.edu, christina.kim@sjsu.edu,  jared.soliven@sjsu.edu
 Problem: There needs to be a convenient way of finding nearby hotels and their amenities.  
 Functionality: Our web application provides a space for people to check on nearby hotels, their descriptions, and a link to their website if any.  
 What Application Covers: Our application covers web development. We use Flask, Python and a SQLite database.  
-Description: The project is a web application that lists out the nearby hotels in a certain radius around the user. It saves personal preferences given the user has logged into their account. Each hotel on the list shows its full name, average cost per room, a link redirecting to the hotel’s official site if there is one, and ratings. This is done using Flask, Python, and a SQLite database for logins. We also use existing APIs, Google Places API and TripAdvisor API to find nearby hotels and their details.  
+
+Project Overview
+
+We developed an Online Bookstore Database System that allows customers to browse books, place orders, and submit reviews while enabling bookstore staff to manage book information, customer accounts, orders, and reviews through a centralized relational database.
+
+From a business perspective, an online bookstore needs a reliable way to organize customer, product, transaction, and review data as online activity grows. The problem this project addresses is how to replace fragmented or manually managed information with a structured database system that supports both customer-facing transactions and bookstore operations. Potential stakeholders include bookstore managers, inventory or operations staff, and customers who depend on accurate and accessible information about books, orders, and reviews.
+
+The system supports decisions related to inventory management, order tracking, customer activity, and overall bookstore operations. For example, bookstore management can use the stored data to understand which books are being ordered, monitor transactions, maintain accurate book information, and review customer feedback. The broader value of the project is that a well-designed relational database provides a consistent source of information that can improve operational efficiency, reduce data-management errors, and provide a foundation for future reporting and business analysis.
 
 To run the code:
 1. Git clone the project
